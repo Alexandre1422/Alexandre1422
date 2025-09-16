@@ -1,4 +1,12 @@
-## Hi there 👋
+# **Hi there! 👋**
+
+I’m [Alexandre](https://www.alexandrecoute.com), a Master’s student in Embedded Software Engineering at the University of Western Brittany.  
+Currently looking for a **6-month internship** starting March 2026 (and maybe a full-time position afterwards).  
+Passionate about robotics 🤖, AI 🧠, and embedded systems ⚡.
+
+**Let's connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tonprofil/)
 
 <!--
 **Alexandre1422/Alexandre1422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
