@@ -1,6 +1,6 @@
 # **Hi there! 👋**
 
-I’m [Alexandre](https://www.alexandrecoute.com), a Master’s student in Embedded Software Engineering at the University of Western Brittany.  
+I’m [Alexandre](https://www.alexandrecoute.com), a Master’s student in Embedded Software Engineering @ Université de Bretagne Occidentale.  
 Currently looking for a **6-month internship** starting March 2026 (and maybe a full-time position afterwards).  
 Passionate about robotics 🤖, AI 🧠, and embedded systems ⚡.
 
