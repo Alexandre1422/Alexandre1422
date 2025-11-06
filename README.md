@@ -6,7 +6,7 @@ Passionate about robotics 🤖, AI 🧠, and embedded systems ⚡.
 
 **Let's connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tonprofil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandre-coute)
 
 <!--
 **Alexandre1422/Alexandre1422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
